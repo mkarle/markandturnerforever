@@ -2,7 +2,7 @@
 <head><title>Mark Karle</title>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script src="responsiveslides.min.js"></script>
-
+<script src="js/random.js"></script>
 <link rel="stylesheet" href="css/stylesheet.css">
     </head>
 <body>
@@ -41,6 +41,6 @@ $(".rslides").responsiveSlides({
   after: function(){}     // Function: After callback
 });
 </script>
-<script src="js/random.js"></script>
+
 </body>
 </html>
